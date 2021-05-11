@@ -1,13 +1,13 @@
-# Adobe Document Service APIs
+# Adobe Document Services APIs
 
-This is an express application that demonstrates the use of Adobe Document Service API in the manipulation of documents.
+This is an express application that demonstrates the use of Adobe Document Services API in the manipulation of documents.
 
 ## Application Setup
 
 #### Clone the Repo
 
 ```bash
-git clone https://github.com/agavitalis/AdobeDocumentAPI.git
+git clone https://github.com/agavitalis/AdobeDocumentServicesAPIs.git
 ```
 
 #### Install dependencies
@@ -20,12 +20,11 @@ npm install
 
 - Update `private.key` with your Adobe Private Keys.
 - Update  `pdftools-api-credentials.json` with your correct Adobe Credentials
+These credentials should be placed at the root directory of this application, and they can be seen in the extraced contents of the sample code file downloaded on a successful signup to Adobe.
 
 #### Configure Database Credentials
 
 - Update `config/default.json` with your database credentials.
-- Update `config/dev.json` with your database credentials.
-- Update `config/test.json` with your database credentials.
 
 ### Run server
 

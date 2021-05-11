@@ -1,5 +1,5 @@
 {
-  "name": "adobedocumentapi",
+  "name": "adobedocumentservicesapis",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agavitalis/AdobeDocumentAPI.git"
+    "url": "git+https://github.com/agavitalis/AdobeDocumentServicesAPIs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agavitalis/AdobeDocumentAPI/issues"
+    "url": "https://github.com/agavitalis/AdobeDocumentServicesAPIs/issues"
   },
-  "homepage": "https://github.com/agavitalis/AdobeDocumentAPI#readme"
+  "homepage": "https://github.com/agavitalis/AdobeDocumentServicesAPIs#readme"
 }
